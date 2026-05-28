@@ -45,3 +45,5 @@
 {"ID_method": "67","method":"CLEAR_paper/real_data/methods/run_MGSA.R","method_params":{"c":20,"C":500}}
 {"ID_method": "69","method":"CLEAR_paper/real_data/methods/run_GSEA_stat.R","method_params":{"c":20,"C":500}}
 {"ID_method": "70","method":"CLEAR_paper/real_data/methods/run_hypergeom.R","method_params":{"c":20,"C":500}}
+{"ID_method":"201","method":"CLEAR_paper/real_data/methods/run_NEAT_fullBayes_pvalues.R","method_params":{"i":100,"b":50,"l":10,"c":20,"C":500,"s":1,"K":3,"u":5}}
+{"ID_method":"202","method":"CLEAR_paper/real_data/methods/run_NEAT_fullBayes_tstats.R","method_params":{"i":100,"b":50,"l":10,"c":20,"C":500,"s":1,"K":3,"u":5}}
